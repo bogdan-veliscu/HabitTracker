@@ -1,0 +1,805 @@
+{
+  "Get a new job": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Change your life for the better ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Get a new job"
+  },
+  "Be grateful": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Treasure the good moments ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Be grateful"
+  },
+  "Block distractions": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Turn off gadgets and devices ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Block distractions"
+  },
+  "Brush & floss": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Keep your teeth and gums healthy ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Brush & floss"
+  },
+  "Call parents": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "They love you",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Call parents"
+  },
+  "Check posture": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Are you slouching?",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Check posture"
+  },
+  "Connect with nature": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Slow down and breathe deeply ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Connect with nature"
+  },
+  "Create shoping list": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Save time and money",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Create shoping list"
+  },
+  "Cuddle": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "We are warm and tender for a reason",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Cuddle"
+  },
+  "Cut down on restaurants": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Cook something at home",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Cut down on restaurants"
+  },
+  "Do morning exercises": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Charge your batteries ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Do morning exercises"
+  },
+  "Do some stretching": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Make your muscles lean and strong",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Do some stretching"
+  },
+  "Do the laundry": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Separate your lights and darks",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Do the laundry"
+  },
+  "Donate": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Giving is important",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Donate"
+  },
+  "Drink water": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Water keeps you hydrated and flushes out toxins ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Drink water"
+  },
+  "Eat a healthy meal": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Balanced diet provides you with energy and keeps healthy ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Eat a healthy meal"
+  },
+  "Eat fruits and veggies": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Natural source of essential nutrients and fibers ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Eat fruits and veggies"
+  },
+  "Enjoy the sunrise": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Set your mind to the natural rhythm ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Enjoy the sunrise"
+  },
+  "Focus on my dream": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Take one step at a time ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Focus on my dream"
+  },
+  "Get outdoors": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Take a deep breath of fresh air ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Get outdoors"
+  },
+  "Go for a ride": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Brab your bike and pedal away to a happy you",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Go for a ride"
+  },
+  "Go for a run": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Improve fitness and sweat out stress in half an hour",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Go for a run"
+  },
+  "Go for a swim": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Swimming helps to de-stress and lower blood presure",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Go for a swim"
+  },
+  "Go for a walk": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Walking strengthens your bones and improves your mood ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Go for a walk"
+  },
+  "Go to sleep by 11pm": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Feel refreshed in the morning ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Go to sleep by 11pm"
+  },
+  "Have fun": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "We only live once ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Have fun"
+  },
+  "Hit the gym": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Exercise fills your body with endorphins",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Hit the gym"
+  },
+  "Hug and kiss": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Showing love and affection is easy",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Hug and kiss"
+  },
+  "Inbox zero": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Deal with all the e-mails ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Inbox zero"
+  },
+  "Learn a new language": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Open up a world of job opportunities ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Learn a new language"
+  },
+  "Limit caffeine": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Make some herbal tea instead ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Limit caffeine"
+  },
+  "Limit smoking": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Reduce health risks ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Limit smoking"
+  },
+  "Limit sugar": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Replace candy with fruits",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Limit sugar"
+  },
+  "Listen to podcasts": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Get educated and informed anytime, anywhere ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Listen to podcasts"
+  },
+  "Log my time": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Every minute counts ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Log my time"
+  },
+  "Lose weight": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Maintain a healthy lifestyle ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Lose weight"
+  },
+  "Make a gift": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Let someone smile today",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Make a gift"
+  },
+  "Make lists": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Stay organized and keep everything at hand ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Make lists"
+  },
+  "Make my bed": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Start your day off right ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Make my bed"
+  },
+  "Make time for myself": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Stop the daily rush and listen carefully ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Make time for myself"
+  },
+  "Meditate": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Find inner peace ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Meditate"
+  },
+  "Meet new people": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Communication is key to successful life ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Meet new people"
+  },
+  "Meet with a friend": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Build new memories",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Meet with a friend"
+  },
+  "Paint or draw": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Creativity is a muscle, work it ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Paint or draw"
+  },
+  "Pay Bills": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Out of sight out means out of mind",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Pay Bills"
+  },
+  "Plan my spendings": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "No more impulsive purchases",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Plan my spendings"
+  },
+  "Practice a new skill": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "You are capable of more than you know",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice a new skill"
+  },
+  "Practice affirmations": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Positive thinking can transform your entire life ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice affirmations"
+  },
+  "Practice deep breathing": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Calm your mind and strengthen your brain ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice deep breathing"
+  },
+  "Practice new skill": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "You are capable of more than you know ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice new skill"
+  },
+  "Practice visualization": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Use the power of your subconscious mind ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice visualization"
+  },
+  "Practice yoga": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Connect with yourself ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Practice yoga"
+  },
+  "Read": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Reading broadens the mind ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Read"
+  },
+  "Reflect on my day": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Gain perspective and set priorities ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Reflect on my day"
+  },
+  "Save at least 10%": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Build yourself a safety net ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Save at least 10%"
+  },
+  "Set goals": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Stay motivated and focused",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Set goals"
+  },
+  "Sit and think": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "A relaxed mind is a creative one ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Sit and think"
+  },
+  "Sleep for 8 hours": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Your body will be grateful ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Sleep for 8 hours"
+  },
+  "Spend time with family": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Stay connected ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Spend time with family"
+  },
+  "Take out the trash": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Keep your home clean",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Take out the trash"
+  },
+  "Tidy the house": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Keep it sparkling",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Tidy the house"
+  },
+  "Track my expenses": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Spend wisely",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Track my expenses"
+  },
+  "Travel more": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Open your mind and develop a wider world view ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Travel more"
+  },
+  "Try something new": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Life is full of possibilities ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Try something new"
+  },
+  "Turn your hobby into career": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Do what you love, and you'll never work a day in your Life ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Turn your hobby into career"
+  },
+  "Vacuum": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Get rid of all the dust",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Vacuum"
+  },
+  "Volunteer": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Make a difference ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Volunteer"
+  },
+  "Wake up early": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Add some extra hours to your day ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Wake up early"
+  },
+  "Wake up early Add some extra hours to your day ": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Add some extra hours to your day ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Wake up early Add some extra hours to your day "
+  },
+  "Water plants": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Plants are alive",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Water plants"
+  },
+  "Work in the garden": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Nourish wildlife lifts your spirits",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Work in the garden"
+  },
+  "Write anything": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "Find your own voice ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Write anything"
+  },
+  "Write in my journal": {
+    "color": "red",
+    "commment": "heart icon",
+    "desc": "A, Look back at your day and remember who you are ",
+    "icon": "heart",
+    "tags": {
+      "family": 0,
+      "love": 1
+    },
+    "title": "Write in my journal"
+  }
+}
