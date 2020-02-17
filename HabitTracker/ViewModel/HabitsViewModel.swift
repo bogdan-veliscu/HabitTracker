@@ -25,10 +25,10 @@ class HabitsViewModel: ObservableObject{
         habits.observe(DataEventType.value, with: { (snapshot) in
             let habitDict = snapshot.value as? [String : AnyObject] ?? [:]
             for habitKey in habitDict {
-                let habitRaw = habitKey.value
-                let habit = try? JSONDecoder().decode(Habit.self, from:habitRaw as! Data)
+                let habitRaw = habitKey.value as! [String : AnyObject]
+                let habit = Habit(json: habitRaw)
                 print(habit)
-                templates.append(habit)
+                self.templates.append(habit!)
             }
             print(habitDict)
         })

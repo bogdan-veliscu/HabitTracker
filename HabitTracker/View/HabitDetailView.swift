@@ -12,8 +12,8 @@ struct HabitDetailView: View {
     var habit: Habit
     var body: some View {
         VStack{
-            Image(systemName: habit.icon).resizable().padding().scaledToFit()
-            Text(habit.title).font(.headline).foregroundColor(.white).padding()
+            Image(systemName: habit.icon!).resizable().padding().scaledToFit()
+            Text(habit.title!).font(.headline).foregroundColor(.white).padding()
             
         }.frame(width: 200, height: 200, alignment: .center).background(Color.pink).clipShape(RoundedRectangle(cornerRadius: 15))
     }

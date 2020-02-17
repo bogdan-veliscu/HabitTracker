@@ -14,10 +14,10 @@ struct HabitCellView: View {
         HStack{
             //            Image(systemName: habit.imageName)
             VStack{
-                Image(systemName: habit.icon).resizable().padding().scaledToFit().accentColor(.green)
+                Image(systemName: habit.icon!).resizable().padding().scaledToFit().accentColor(.green)
             }.frame(width: 70, height: 70, alignment: .leading).background(Color.pink).clipShape(RoundedRectangle(cornerRadius: 15))
             Spacer()
-            Text(habit.title).font(.headline)
+            Text(habit.title!).font(.headline)
             
         }.background(Color.clear)
             .clipShape(RoundedRectangle(cornerRadius: 15))
