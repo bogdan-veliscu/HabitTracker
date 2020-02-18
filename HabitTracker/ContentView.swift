@@ -33,7 +33,7 @@ struct ContentView: View {
                         Text("Stats")
                 }.tag(1)
                 
-                Text("Create")
+                CreateHabitView()
                     .tabItem {
                         Spacer()
                 }.tag(2)

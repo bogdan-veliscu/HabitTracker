@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import HabitTracker
+//@testable import HabitTracker
 
 class HabitTrackerTests: XCTestCase {
 

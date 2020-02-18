@@ -10,6 +10,8 @@
 		4305FB6923EA9C3B009B70C2 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4305FB6823EA9C3B009B70C2 /* AuthViewModel.swift */; };
 		4305FB6B23EAB89F009B70C2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4305FB6A23EAB89F009B70C2 /* GoogleService-Info.plist */; };
 		433F154F23E73B3D009326C9 /* HabitsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433F154E23E73B3D009326C9 /* HabitsViewModel.swift */; };
+		437042F423FC926E003FB522 /* CreateHabitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437042F323FC926E003FB522 /* CreateHabitView.swift */; };
+		437042F623FC96DD003FB522 /* TemplateListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437042F523FC96DD003FB522 /* TemplateListView.swift */; };
 		437B9B0523E56EAB000A8472 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437B9B0423E56EAB000A8472 /* AppDelegate.swift */; };
 		437B9B0723E56EAB000A8472 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437B9B0623E56EAB000A8472 /* SceneDelegate.swift */; };
 		437B9B0A23E56EAC000A8472 /* HabitTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 437B9B0823E56EAC000A8472 /* HabitTracker.xcdatamodeld */; };
@@ -55,6 +57,8 @@
 		4305FB6823EA9C3B009B70C2 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 		4305FB6A23EAB89F009B70C2 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		433F154E23E73B3D009326C9 /* HabitsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitsViewModel.swift; sourceTree = "<group>"; };
+		437042F323FC926E003FB522 /* CreateHabitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateHabitView.swift; sourceTree = "<group>"; };
+		437042F523FC96DD003FB522 /* TemplateListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateListView.swift; sourceTree = "<group>"; };
 		437B9B0123E56EAB000A8472 /* Habit Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Habit Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		437B9B0423E56EAB000A8472 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		437B9B0623E56EAB000A8472 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -203,9 +207,11 @@
 				437B9B3823E5710E000A8472 /* HabitDetailView.swift */,
 				437B9B3A23E57127000A8472 /* HabitCellView.swift */,
 				437B9B3C23E57148000A8472 /* HabitListView.swift */,
+				437042F523FC96DD003FB522 /* TemplateListView.swift */,
 				438C4E5E23E85D48009FC44F /* SettingListView.swift */,
 				438C4E6023E85D6F009FC44F /* SetingCellView.swift */,
 				43834D7623EC520D00A85429 /* StatisticsView.swift */,
+				437042F323FC926E003FB522 /* CreateHabitView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -527,6 +533,8 @@
 				437B9B0523E56EAB000A8472 /* AppDelegate.swift in Sources */,
 				438C4E5F23E85D48009FC44F /* SettingListView.swift in Sources */,
 				438C4E6123E85D6F009FC44F /* SetingCellView.swift in Sources */,
+				437042F423FC926E003FB522 /* CreateHabitView.swift in Sources */,
+				437042F623FC96DD003FB522 /* TemplateListView.swift in Sources */,
 				43834D7723EC520D00A85429 /* StatisticsView.swift in Sources */,
 				437B9B0723E56EAB000A8472 /* SceneDelegate.swift in Sources */,
 				437B9B0C23E56EAC000A8472 /* ContentView.swift in Sources */,
