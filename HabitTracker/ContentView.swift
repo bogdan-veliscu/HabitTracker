@@ -33,16 +33,19 @@ struct ContentView: View {
                         Text("Stats")
                 }.tag(1)
                 
-                CreateHabitView()
+                NavigationView{
+                    CreateHabitView()
+                }.navigationBarTitle(Text("Create a new nabit"))
                     .tabItem {
                         Spacer()
-                }.tag(2)
+                }.navigationBarTitle(Text("Create a new habit")).tag(2)
                 
-                
-                Text("Plan")
-                    .tabItem {
-                        Image(systemName: "list.bullet")
-                        Text("Plan")
+                NavigationView{
+                    LoginView()
+                }
+                .tabItem {
+                    Image(systemName: "list.bullet")
+                    Text("Plan")
                 }.tag(3)
                 NavigationView{
                     SettingListView()
